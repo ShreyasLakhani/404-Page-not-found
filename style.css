@@ -20,6 +20,10 @@ img {
     
 }
 
+.text{
+    padding-left: 100px;
+}
+
 h1 {
     font-family: Space Mono;
     font-size: 64px;
@@ -56,13 +60,15 @@ a {
     
 }
 
-.img{
-    min-width: 50%;
-}
+@media screen and (max-width: 550px){
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-@media (max-width: 550px){
     .container{
+        display: flex;
         flex-direction: column;
-        justify-items: center;
     }
 }
