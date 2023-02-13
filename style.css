@@ -65,6 +65,8 @@ a {
 }
 
 @media screen and (max-width: 550px) {
+  
+    
     img {
         width: 400px;
         height: 400px;
@@ -72,8 +74,11 @@ a {
 
 
     .container {
+        width: 530px;
         display: flex;
         flex-direction: column;
+        
+        
     }
 
     .text {
