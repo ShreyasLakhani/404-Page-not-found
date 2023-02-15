@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](./Screen_short/Screenshort.jpg)
+![screenshot](https://github.com/ShreyasLakhani/404-Page-not-found/blob/main/Screenshot.jpg)
 
 
 
